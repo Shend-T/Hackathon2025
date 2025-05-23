@@ -3,10 +3,13 @@
 So, using vite we created the react app, first run the following commands
 
 > cd frontend
-> make sure you are in the frontend directory
+
+make sure you are in the frontend directory
 
 > npm install
-> install the necessary node modules
+
+install the necessary node modules
 
 > npm run dev
-> to run the react code
+
+to run the react code
